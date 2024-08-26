@@ -1,0 +1,68 @@
+m255
+K3
+13
+Z0 cModel Technology
+Z1 dC:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_4bits\Modelsim
+T_opt
+Z2 VKg@UCPSY2L6?c2[;6cN^E2
+Z3 04 16 3 work compare_4bits_tb bhv 0
+Z4 =1-a08cfdfd75e5-5eb01cff-2cc-3ba4
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 tExplicit 1
+Z7 OE;O;6.3f;37
+Ecompare_4bits
+Z8 w1588556466
+Z9 DPx22 C:\Modeltech_6.3f\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z10 DPx22 C:\Modeltech_6.3f\ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z11 DPx22 C:\Modeltech_6.3f\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z12 DPx22 C:\Modeltech_6.3f\ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+32
+Z13 8C:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_4bits/Src/compare_4bits.vhd
+Z14 FC:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_4bits/Src/compare_4bits.vhd
+l0
+L13
+Z15 VE6VhbD6N7oXS0V5j2^5T11
+Z16 OE;C;6.3f;37
+Z17 o-work work
+R6
+Abhv
+R9
+R10
+R11
+R12
+Z18 DEx106 C:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_4bits\Modelsim\work 13 compare_4bits 0 22 E6VhbD6N7oXS0V5j2^5T11
+32
+Mx4 22 C:\Modeltech_6.3f\ieee 11 numeric_std
+Mx3 22 C:\Modeltech_6.3f\ieee 14 std_logic_1164
+Mx2 22 C:\Modeltech_6.3f\ieee 18 std_logic_unsigned
+Mx1 22 C:\Modeltech_6.3f\ieee 15 std_logic_arith
+l27
+L26
+Z19 VTo]YcVCUmGd@:O0l6lQ7l2
+R16
+R17
+R6
+Ecompare_4bits_tb
+Z20 w1588557089
+R11
+32
+Z21 8C:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_4bits/Testbench/compare_4bits_tb.vhd
+Z22 FC:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_4bits/Testbench/compare_4bits_tb.vhd
+l0
+L11
+Z23 Vo473[K:<YI2MFR@eHjB`Y1
+R16
+R17
+R6
+Abhv
+R18
+R11
+DEx106 C:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_4bits\Modelsim\work 16 compare_4bits_tb 0 22 o473[K:<YI2MFR@eHjB`Y1
+32
+Mx1 22 C:\Modeltech_6.3f\ieee 14 std_logic_1164
+l33
+L18
+Z24 VXhMEf[4WYV2A<LMGORn3F3
+R16
+R17
+R6

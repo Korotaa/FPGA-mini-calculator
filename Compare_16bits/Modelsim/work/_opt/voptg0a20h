@@ -1,0 +1,104 @@
+m255
+K3
+13
+Z0 cModel Technology
+Z1 dC:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_16bits\Modelsim
+T_opt
+Z2 Vc:ZTi4Gg==ahki=z70oCX2
+Z3 04 16 3 work compare_8bits_tb bhv 0
+Z4 =1-a08cfdfd75e5-5eb04c96-97-32c0
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 tExplicit 1
+Z7 OE;O;6.3f;37
+Ecompare_4bits
+Z8 w1588556466
+Z9 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z10 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z11 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z12 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z13 8C:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_4bits/Src/compare_4bits.vhd
+Z14 FC:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_4bits/Src/compare_4bits.vhd
+l0
+L13
+Z15 VE6VhbD6N7oXS0V5j2^5T11
+Z16 OE;C;6.3f;37
+32
+Z17 o-work work
+R6
+Abhv
+Z18 DPx22 C:\Modeltech_6.3f\ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z19 DPx22 C:\Modeltech_6.3f\ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z20 DPx22 C:\Modeltech_6.3f\ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z21 DPx22 C:\Modeltech_6.3f\ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z22 DEx107 C:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_16bits\Modelsim\work 13 compare_4bits 0 22 E6VhbD6N7oXS0V5j2^5T11
+32
+Z23 Mx4 22 C:\Modeltech_6.3f\ieee 11 numeric_std
+Z24 Mx3 22 C:\Modeltech_6.3f\ieee 14 std_logic_1164
+Z25 Mx2 22 C:\Modeltech_6.3f\ieee 18 std_logic_unsigned
+Z26 Mx1 22 C:\Modeltech_6.3f\ieee 15 std_logic_arith
+l27
+L26
+Z27 VTo]YcVCUmGd@:O0l6lQ7l2
+R16
+R17
+R6
+Ecompare_8bits
+Z28 w1588610938
+R9
+R10
+R11
+R12
+Z29 8C:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_16bits/Src/Compare_8bits.vhd
+Z30 FC:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_16bits/Src/Compare_8bits.vhd
+l0
+L14
+Z31 V;laL_kVKl9AA?l49YZC;]0
+R16
+32
+R17
+R6
+Artl
+R22
+R18
+R19
+R20
+R21
+Z32 DEx107 C:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_16bits\Modelsim\work 13 compare_8bits 0 22 ;laL_kVKl9AA?l49YZC;]0
+32
+R23
+R24
+R25
+R26
+l43
+L27
+Z33 VF;k0K@LljO;`o6:zQ6zbd1
+R16
+R17
+R6
+Ecompare_8bits_tb
+Z34 w1588612218
+R20
+R21
+32
+Z35 8C:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_16bits/Testbench/Compare_8bits_tb.vhd
+Z36 FC:/ENSAF/after/Semestre2 Ensa SEII1/VHDL/My_Personals_Projects/Mini_Calculator/Compare_16bits/Testbench/Compare_8bits_tb.vhd
+l0
+L13
+Z37 V5b18ehk<XcV_jzW`EXkZB3
+R16
+R17
+R6
+Abhv
+R32
+R20
+R21
+DEx107 C:\ENSAF\after\Semestre2 Ensa SEII1\VHDL\My_Personals_Projects\Mini_Calculator\Compare_16bits\Modelsim\work 16 compare_8bits_tb 0 22 5b18ehk<XcV_jzW`EXkZB3
+32
+Mx2 22 C:\Modeltech_6.3f\ieee 11 numeric_std
+Mx1 22 C:\Modeltech_6.3f\ieee 14 std_logic_1164
+l35
+L20
+Z38 VNDnYG[Y:Sn]<o;loIG]W]3
+R16
+R17
+R6
